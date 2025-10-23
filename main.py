@@ -23,11 +23,10 @@ def main():
     print(" 3. Creating a program that checks if a citizen is eligible to vote based on their age. ")
     print(" 4. Creating a program to determine if a number is even or odd. ")
     print(" 5. Creating a program whether the given year is leap year or not. ")
-    print(" 6. Creating a to convert meters into feet and feet into meters")
-
-
-
-
+    print(" 6. Creating a to convert meters into feet and feet into meters. ")
+    print(" 7. Creating a program to determine if the given is positive, negative, or zero. ")
+    print(" 8. Creating a program to identify whether a lowercase English letter is vowel or consonant. ")
+    print(" 9. ")
 
 
 
